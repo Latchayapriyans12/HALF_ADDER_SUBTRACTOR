@@ -66,9 +66,10 @@ assign f2=((~y & z)|( w & y )|(x & y));
 endmodule
 ```
 Developed by:latchaya priyan S
+
 RegisterNumber:24900388
 
-**RTL Schematic**
+**RTL Schematic**:
 HALF ADDER
 ![IMG-20241208-WA0013](https://github.com/user-attachments/assets/481fbd30-0b18-47e9-b26a-a5c2617f69a1)
 HALF SUBTRACTOR
@@ -77,7 +78,6 @@ HALF SUBTRACTOR
 **Output/TIMING Waveform**:
 
 half adder 
-
 half subtractor
 ![IMG-20241208-WA0014](https://github.com/user-attachments/assets/d54737f8-bbba-45af-8628-b2de842ddb5b)
 
